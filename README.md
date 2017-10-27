@@ -1,6 +1,6 @@
 # fluffy-octo-umbrella
 
-ArbeitsProben
+Arbeitsproben
 
 Aus urheberrechtlichen Gründen beschränken sich die Beispiele 
 auf Projekte, die während meiner Studienzeit entstanden sind.
