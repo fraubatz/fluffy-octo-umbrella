@@ -1,9 +1,11 @@
 # fluffy-octo-umbrella
-Code portfolio
------------------------------------------------------------------------------------------------
-Code-Proben aus meinen Projekten. Aus urheberrechtlichen Gründen beschränken sich die Beispiele 
-auf Arbeiten, die während meiner Studienzeiten entstanden sind.
------------------------------------------------------------------------------------------------
+
+ArbeitsProben
+
+Aus urheberrechtlichen Gründen beschränken sich die Beispiele 
+auf Projekte, die während meiner Studienzeit entstanden sind.
+
+---------------------------------------------------------------
 
 Beispiel 1: Java: Symboleditor (1998)            
 
